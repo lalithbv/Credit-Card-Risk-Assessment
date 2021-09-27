@@ -38,3 +38,7 @@ Any publications based on this dataset should acknowledge the following:
 Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 
 The original dataset can be found here at the UCI Machine Learning Repository.
+
+## Observation:
+
+The average cross validation accuracy score is 82.13% i.e., the next month default class can be predicted with an accuracy of 82.13%.
